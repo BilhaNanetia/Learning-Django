@@ -1,0 +1,16 @@
+name,submitter,species,breed,description,sex,submission_date,age,vaccinations
+Bella,John Doe,Dog,Labrador,"Friendly and loves to play.",F,2023-08-10,3,Rabies;Parvo
+Max,Jane Smith,Cat,Persian,"Calm and likes to relax.",M,2023-08-12,5,FVRCP
+Buddy,Mark Johnson,Dog,Bulldog,"Energetic and loves to run.",M,2023-08-14,2,Rabies
+Charlie,Emily Brown,Dog,Beagle,"Curious and likes to explore.",M,2023-08-16,4,Rabies;Lepto
+Luna,Alice White,Cat,Siamese,"Loyal and affectionate.",F,2023-08-18,2,FVRCP;FeLV
+Lucy,David Green,Dog,Poodle,"Very smart and quick learner.",F,2023-08-20,1,Parvo
+Daisy,Mary Lee,Dog,Golden Retriever,"Loves children and other pets.",F,2023-08-21,4,Rabies;Parvo
+Rocky,Chris Scott,Dog,Boxer,"Playful and full of energy.",M,2023-08-23,3,Lepto
+Molly,Anna Hill,Cat,Bengal,"Very active and loves heights.",F,2023-08-25,2,FVRCP
+Bailey,Tom King,Dog,Pitbull,"Gentle and affectionate.",M,2023-08-27,5,Rabies
+Sadie,Linda Hall,Dog,Dachshund,"Loves burrowing and cuddling.",F,2023-08-29,3,Parvo
+Jack,Laura Kim,Dog,Husky,"Very vocal and loves cold weather.",M,2023-08-30,2,Rabies;Lepto
+Toby,Oliver Fox,Dog,Chihuahua,"Small but very brave.",M,2023-09-01,1,Parvo
+Coco,Peter Cruz,Cat,Sphynx,"Very curious and social.",F,2023-09-03,3,FVRCP
+Oscar,Susan Gray,Dog,Shih Tzu,"Loves being pampered and groomed.",M,2023-09-05,4,Rabies
